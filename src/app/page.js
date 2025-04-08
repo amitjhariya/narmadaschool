@@ -27,7 +27,7 @@ function App () {
       <section className="relative bg-gradient-to-r from-blue-600 to-blue-800 text-white py-24">
         <div className="container mx-auto px-4">
           <div className="max-w-3xl">
-            <h1 className="text-5xl font-bold mb-6">Shaping Tomorrow's Leaders Today</h1>
+            <h1 className="text-5xl font-bold mb-6">Shaping Tomorrow&apos;sLeaders Today</h1>
             <p className="text-xl mb-8 text-blue-100">Welcome to PVT. NARMADA SCHOOL OF EXCELLENCE, where we nurture young minds and foster academic excellence in a supportive learning environment.</p>
             <div className="flex space-x-4">
               <button className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors">
@@ -101,7 +101,7 @@ function App () {
       <section className="bg-blue-600 text-white py-16">
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl font-bold mb-4">Ready to Join Our School?</h2>
-          <p className="text-xl text-blue-100 mb-8">Take the first step towards your child's bright future.</p>
+          <p className="text-xl text-blue-100 mb-8">Take the first step towards your child&apos;sbright future.</p>
           <button className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors inline-flex items-center">
             Start Application
             <ArrowRight className="ml-2 h-5 w-5" />
